@@ -78,3 +78,8 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singharshvardhan433@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshxo42)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/harshxo42/)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshxo42/harshxo42/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshxo42/harshxo42/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/harshxo42/harshxo42/output/github-snake.svg" />
+</picture>
