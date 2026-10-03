@@ -1,10 +1,18 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:22D3EE&height=170&section=header&text=Harsh%20Vardhan%20Singh&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20%E2%80%A2%20Generative%20AI%20%E2%80%A2%20Backend%20%E2%80%A2%20Problem%20Solving&descAlignY=60&descSize=16" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=200&section=header&text=Harsh%20Vardhan%20Singh&fontSize=48&fontColor=00F5E0&fontAlignY=50" alt="Harsh Vardhan Singh" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshxo42&label=Profile%20views&color=22D3EE&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/harshxo42?label=followers&color=22D3EE&style=flat" alt="Followers" />
+  <img src="https://i.pinimg.com/736x/09/01/aa/0901aa9e623d4339d468afeb6dcd67ab.jpg" alt="Banner" width="55%" />
+</p>
+
+<h2 align="center">⚡ Welcome to My AI Space ⚡</h2>
+
+<p align="center"><b>AI/ML • Generative AI • Backend • Problem Solving</b></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshxo42&label=Profile%20views&color=00F5E0&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/harshxo42?label=followers&color=00F5E0&style=flat" alt="Followers" />
 </p>
 
 # 💫 About Me:
@@ -12,7 +20,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=22D3EE&width=600&lines=Hello+World!;I'm+Harsh+Vardhan+Singh;AI%2FML+%7C+Generative+AI+%7C+Backend+Developer;Python+%7C+TensorFlow+%7C+OpenCV+%7C+FastAPI;Problem+Solver+%26+Builder" alt="Typing Animation" />
 </p>
 
-🔭 Final-year B.Tech CSE (AIML) @ G.L. Bajaj Institute of Technology and Management  
+🔭 B.Tech CSE (AIML) @ G.L. Bajaj Institute of Technology and Management  
 🌱 Currently learning **Deep Learning, Generative AI, Full Stack Dev & System Design**  
 🤖 Passionate about **AI/ML, Computer Vision, LLM Applications & Real-time Systems**  
 ⚙️ Building production-oriented AI apps with **FastAPI, PostgreSQL, Redis & Docker**  
@@ -44,7 +52,7 @@
 
 <div align="center">
   <a href="https://leetcode.com/u/singhharsh433/">
-    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fharshxo42%2Fharshxo42%2Fmain%2Fleetcode.json&style=for-the-badge&logoColor=black&cacheSeconds=3600" alt="LeetCode Solved (auto-updating)" />
+    <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Solved (auto-updating)" />
   </a>
   <a href="https://github.com/harshxo42">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
@@ -56,21 +64,21 @@
 <div align="center">
 <table>
   <tr>
-    <td width="100%" valign="top" style="padding: 16px; border: 1px solid #30363d; border-radius: 12px;">
-      <h3 align="center">🚑 Aegis AI – AI-Powered Emergency Healthcare Response Platform</h3>
-      <p align="center"><b>AI Healthcare Assistant + Emergency SOS + Medical Document Analysis</b></p>
+    <td width="50%" valign="top" style="padding: 16px; border: 1px solid #30363d; border-radius: 12px;">
+      <h3 align="center">Aegis AI</h3>
+      <p align="center"><b>AI-Powered Emergency Healthcare Response Platform</b></p>
       <p align="center">Python • FastAPI • OpenRouter • OpenAI SDK • PostgreSQL • Redis • Docker</p>
       <p align="center">
-        <a href="https://aegis-ai-ruddy.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live-Demo-22D3EE?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" />
-        </a>
         <a href="https://github.com/harshxo42/Aegis-AI" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Code" />
+        </a>
+        <a href="https://aegis-ai-ruddy.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Demo-Deployed-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
         </a>
       </p>
       <p align="center">
         <a href="https://aegis-ai-ruddy.vercel.app/" target="_blank">
-          <img src="https://image.thum.io/get/width/900/crop/600/https://aegis-ai-ruddy.vercel.app/" alt="Aegis AI Live Preview" width="85%" />
+          <img src="https://image.thum.io/get/width/900/crop/600/https://aegis-ai-ruddy.vercel.app/" alt="Aegis AI Live Preview" width="100%" />
         </a>
         <br>
         <sub>👆 Live preview — click to open the deployed app</sub>
@@ -78,19 +86,17 @@
       <details>
         <summary><b>Project Details</b></summary>
         <ul>
-          <li>Developed an <b>AI-powered healthcare assistant</b> using Python, FastAPI, OpenRouter and OpenAI SDK for conversational assistance and healthcare-oriented workflows.</li>
-          <li>Implemented <b>medical PDF and document analysis</b> with text extraction to enable AI-assisted processing of uploaded medical information.</li>
-          <li>Designed backend AI workflows with FastAPI and PostgreSQL, integrating <b>JWT authentication, RBAC and Redis-backed token revocation</b> for secure access.</li>
-          <li>Built <b>emergency and SOS workflows</b>, hospital discovery, maps and location features, and analytics integrated with the AI-powered platform.</li>
-          <li>Added <b>automated testing (Pytest), GitHub CI validation and Docker-based deployment</b> for production-oriented AI applications.</li>
+          <li>Developed an AI-powered healthcare assistant using Python, FastAPI, OpenRouter and OpenAI SDK for conversational assistance and healthcare-oriented workflows.</li>
+          <li>Implemented medical PDF and document analysis with text extraction for AI-assisted processing of uploaded medical information.</li>
+          <li>Designed backend AI workflows with FastAPI and PostgreSQL, integrating JWT authentication, RBAC and Redis-backed token revocation.</li>
+          <li>Built emergency and SOS workflows, hospital discovery, maps and location features, and analytics.</li>
+          <li>Added automated testing (Pytest), GitHub CI validation and Docker-based deployment.</li>
         </ul>
       </details>
     </td>
-  </tr>
-  <tr>
-    <td width="100%" valign="top" style="padding: 16px; border: 1px solid #30363d; border-radius: 12px;">
-      <h3 align="center">🎵 Emotion-Aware Smart Music & Environment System</h3>
-      <p align="center"><b>Real-time Emotion Detection + Music Recommendation Pipeline</b></p>
+    <td width="50%" valign="top" style="padding: 16px; border: 1px solid #30363d; border-radius: 12px;">
+      <h3 align="center">Emotion-Aware Music System</h3>
+      <p align="center"><b>Real-time Emotion Detection + Music Recommendation</b></p>
       <p align="center">Python • CNN • OpenCV • TensorFlow • Deep Learning</p>
       <p align="center">
         <a href="YOUR_EMOTION_PROJECT_GITHUB_REPO_LINK" target="_blank">
@@ -100,10 +106,10 @@
       <details>
         <summary><b>Project Details</b></summary>
         <ul>
-          <li>Developed a <b>real-time facial emotion recognition system</b> using a Convolutional Neural Network (CNN), OpenCV and Python.</li>
-          <li>Built an <b>end-to-end computer vision pipeline</b> for facial expression preprocessing and multi-class emotion classification (<b>happy, sad, angry, neutral</b>, etc.).</li>
-          <li>Integrated emotion predictions with an <b>automated music recommendation system</b> for a real-time emotion-aware experience.</li>
-          <li>Optimized the inference pipeline for <b>low-latency real-time prediction</b> and classification.</li>
+          <li>Developed a real-time facial emotion recognition system using a Convolutional Neural Network (CNN), OpenCV and Python.</li>
+          <li>Built an end-to-end computer vision pipeline for facial expression preprocessing and multi-class emotion classification (happy, sad, angry, neutral, etc.).</li>
+          <li>Integrated emotion predictions with an automated music recommendation system for a real-time emotion-aware experience.</li>
+          <li>Optimized the inference pipeline for low-latency real-time prediction and classification.</li>
         </ul>
       </details>
     </td>
@@ -117,32 +123,16 @@
   <img src="https://skillicons.dev/icons?i=py,cpp,ts,react,fastapi,postgres,redis,docker,tensorflow,opencv,sklearn,numpy,pandas,git,github,vercel,vscode" alt="Tech Stack" />
 </p>
 
-<details>
-<summary><b>Full Skill Set</b></summary>
-
-- **Programming:** Python, C++, SQL
-- **Machine Learning & AI:** Machine Learning, Deep Learning, CNN, Computer Vision, TensorFlow, Scikit-learn, OpenCV, NumPy, Pandas
-- **Generative AI:** LLMs, OpenAI SDK, OpenRouter
-- **Backend Development:** FastAPI, REST APIs, SQLAlchemy
-- **Data & Infrastructure:** PostgreSQL, Redis, Docker
-- **Security & Testing:** JWT, RBAC, Pytest, GitHub CI
-- **Developer Tools:** Git, GitHub, VS Code, Vercel, Render, React, TypeScript
-- **Core Concepts:** Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks
-
-</details>
-
 ## 📚 Education
 
 - **G.L. Bajaj Institute of Technology and Management**, Greater Noida, India — B.Tech CSE (AIML), 2023–2027
 - **R.N. Public School (CBSE)**, Prayagraj, India — Intermediate (Class XII), 2021–22
 - **R.N. Public School (CBSE)**, Prayagraj, India — High School (Class X), 2019–20
 
-## 🏅 Highlights & Certifications
+## 🏅 Highlights
 
-- 🧠 **Competitive Programming:** Solving coding problems daily across multiple platforms
-
-  <a href="https://leetcode.com/u/singhharsh433/"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fharshxo42%2Fharshxo42%2Fmain%2Fleetcode.json&style=flat&logoColor=black&cacheSeconds=3600" alt="LeetCode Solved" /></a>
-
+- 🧠 **Competitive Programming:** Solving problems daily across multiple platforms.  
+  <a href="https://leetcode.com/u/singhharsh433/"><img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode Solved" /></a>
 - 🔐 **Cisco AICTE Virtual Internship** — Cybersecurity (Jun–Aug 2025)
 - 🔐 **Cybersecurity Essentials** — Cisco Networking Academy (Aug 2025)
 - 🔐 **Introduction to Cybersecurity** — Cisco Networking Academy (Aug 2025)
@@ -151,7 +141,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshxo42&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Harsh's GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshxo42&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshxo42&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>
 
@@ -164,7 +154,7 @@
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/harshxo42" target="_blank">
+  <a href="https://www.linkedin.com/in/harsh-vardhan-singh-483a06296/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:singhharshvardhan433@gmail.com">
@@ -176,8 +166,4 @@
   <a href="https://leetcode.com/u/singhharsh433/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:0d1117&height=100&section=footer" alt="Footer" width="100%" />
 </p>
