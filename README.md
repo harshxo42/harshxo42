@@ -6,7 +6,7 @@
   <img src="https://i.pinimg.com/736x/09/01/aa/0901aa9e623d4339d468afeb6dcd67ab.jpg" alt="Banner" width="55%" />
 </p>
 
-<h2 align="center">⚡ Welcome to My AI Space ⚡</h2>
+<h2 align="center">⚡ Welcome to My Cyber Space ⚡</h2>
 
 <p align="center"><b>AI/ML • Generative AI • Backend • Problem Solving</b></p>
 
